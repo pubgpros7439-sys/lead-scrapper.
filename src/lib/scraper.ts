@@ -18,7 +18,7 @@ export async function scrapeGoogleMaps(city: string, niche: string): Promise<Bus
     });
   }
 
-  const page = await browser.newPage();
+  const page: any = await browser.newPage();
   
   // Set a realistic user agent
   await page.setUserAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36");
@@ -37,7 +37,7 @@ export async function scrapeGoogleMaps(city: string, niche: string): Promise<Bus
     await page.waitForSelector('div[role="article"], .hfpxzc', { timeout: 15000 }).catch(() => null);
 
     // Auto-scroll to load about 40-60 results
-    await page.evaluate(async (selector) => {
+    await page.evaluate(async () => {
       const feed = document.querySelector('div[role="feed"]') || 
                    document.querySelector('div[aria-label^="Results for"]') ||
                    document.querySelectorAll('div.m67q60eb6v3')[1] ||
@@ -166,7 +166,7 @@ export async function scrapeGoogleMaps(city: string, niche: string): Promise<Bus
     );
 
     console.log(`Identified ${filteredLeads.length} high-intent matches.`);
-    return filteredLeads.map(({ isClosed, ...rest }) => rest);
+    return filteredLeads.map(({ isClosed, ...rest }: any) => rest);
 
   } catch (error) {
     console.error("Scraping error:", error);

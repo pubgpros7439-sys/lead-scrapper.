@@ -1,0 +1,67 @@
+{
+  "leads": [
+    {
+      "id": "Um9vZmluZyA0IGxl",
+      "name": "Roofing 4 less FL",
+      "phone": "305-390-2523",
+      "website": "http://roofing4lessflorida.com/",
+      "googleMapsUrl": "https://www.google.com/maps/place/Roofing+4+less+FL/data=!4m7!3m6!1s0x88165733356bb8a1:0x6fde3e896a6b4d9a!8m2!3d25.8890072!4d-80.1867844!16s%2Fg%2F11w205cxzk!19sChIJobhrNTNXFogRmk1raok-3m8?authuser=0&hl=en&rclk=1",
+      "rating": 4.9,
+      "reviewCount": 60
+    },
+    {
+      "id": "RW1lcmFsZCBSb29m",
+      "name": "Emerald Roofing, Inc.",
+      "phone": "305-637-1659",
+      "website": "http://emeraldroofinginc.com/",
+      "googleMapsUrl": "https://www.google.com/maps/place/Emerald+Roofing,+Inc./data=!4m7!3m6!1s0x88d9b0c6fdc29877:0x868d62151cb30086!8m2!3d25.8230876!4d-80.2515641!16s%2Fg%2F1vgx1kfz!19sChIJd5jC_caw2YgRhgCzHBVijYY?authuser=0&hl=en&rclk=1",
+      "rating": 4.9,
+      "reviewCount": 52
+    },
+    {
+      "id": "QmVzdCBSb29maW5n",
+      "name": "Best Roofing Miami",
+      "phone": "888-511-6027",
+      "website": "https://www.bestroofing.net/",
+      "googleMapsUrl": "https://www.google.com/maps/place/Best+Roofing+Miami/data=!4m7!3m6!1s0x88d9b72ffaddc0bf:0xf1e7e08305aa5429!8m2!3d25.7962067!4d-80.2427432!16s%2Fg%2F11s5z8y49j!19sChIJv8Dd-i-32YgRKVSqBYPg5_E?authuser=0&hl=en&rclk=1",
+      "rating": 5,
+      "reviewCount": 31
+    },
+    {
+      "id": "RXBpYyBSb29maW5n",
+      "name": "Epic Roofing",
+      "phone": "786-655-4107",
+      "website": "https://epic-roofing.localo.site/?utm_source=google_profile&utm_campaign=localo&utm_medium=mainlink",
+      "googleMapsUrl": "https://www.google.com/maps/place/Epic+Roofing/data=!4m7!3m6!1s0x88d9b7692e73dd7f:0xd10f233a059c8ba6!8m2!3d25.7826197!4d-80.2627681!16s%2Fg%2F11mdgmf1kt!19sChIJf91zLmm32YgRpoucBTojD9E?authuser=0&hl=en&rclk=1",
+      "rating": 5,
+      "reviewCount": 18
+    },
+    {
+      "id": "QWNlIFJvb2Zpbmcg",
+      "name": "Ace Roofing Miami",
+      "phone": "645-215-0971",
+      "website": "http://aceroofingmiami.com/",
+      "googleMapsUrl": "https://www.google.com/maps/place/Ace+Roofing+Miami/data=!4m7!3m6!1s0x88d9b7001801c147:0x67e1e6ed8938de86!8m2!3d25.766733!4d-80.205491!16s%2Fg%2F11yt02m417!19sChIJR8EBGAC32YgRht44ie3m4Wc?authuser=0&hl=en&rclk=1",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "id": "SXNhYWMgRGF2aWQg",
+      "name": "Isaac David Roofing",
+      "phone": "305-988-8434",
+      "website": "https://ggroofers.com/",
+      "googleMapsUrl": "https://www.google.com/maps/place/Isaac+David+Roofing/data=!4m7!3m6!1s0x89c2897647a81785:0x6102e4cb0f517941!8m2!3d25.8552872!4d-80.1314746!16s%2Fg%2F11dzdbcshq!19sChIJhReoR3aJwokRQXlRD8vkAmE?authuser=0&hl=en&rclk=1",
+      "rating": 5,
+      "reviewCount": 54
+    },
+    {
+      "id": "TWFpbmxhbmQgUm9v",
+      "name": "Mainland Roofing Company",
+      "phone": "305-696-7663",
+      "website": "http://mainlandroofing.com/",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mainland+Roofing+Company/data=!4m7!3m6!1s0x88d9b08dcabba8ff:0xcc5498f6ccab879c!8m2!3d25.8461371!4d-80.2587759!16s%2Fg%2F1hc477jd5!19sChIJ_6i7yo2w2YgRnIerzPaYVMw?authuser=0&hl=en&rclk=1",
+      "rating": 4.8,
+      "reviewCount": 79
+    }
+  ]
+}
